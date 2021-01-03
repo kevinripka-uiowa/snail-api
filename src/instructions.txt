@@ -1,0 +1,11 @@
+Snails Master List
+1) Download csv from google drive, save as snails-master.csv
+2) convert to js with compare/makemasterlist.js
+3) add module.exports= to beginning of file (snails.js)
+
+Key
+1) static file burch.js
+2) change name to key.js
+
+Routes
+1) Find and convert to JSON with compare/routes.js
